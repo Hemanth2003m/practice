@@ -1,0 +1,33 @@
+
+.container{
+    height: 630px;
+    width: 100% ;
+    background-color: green;
+    border-radius: 10px;
+
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.box{
+    padding-top: 30px;
+    padding-left: 50px;
+    height:350px;
+    width:250px;
+    background-color: white;
+    border-radius: 10px;
+}
+.inputs{
+    width:180px;
+    height:25px;
+    border:solid 2px black;
+    border-radius: 5px;
+}
+.button{
+    height: 25px;
+    width: 60px;
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+
+}
